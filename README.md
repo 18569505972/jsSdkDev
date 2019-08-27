@@ -12,18 +12,18 @@ config/index.js
 gulp
 ```
 ## 项目目录
-│  .babelrc         // babel配置文件
-│  gulpfile.js      // gulp打包配置文件
-│  package-lock.json
-│  package.json
-│  README.md
-│
-├─config
-│      index.js     // 打包管理
-│
-├─lib               // 打包目录
-│
-└─src               // 入口目录
+│  .babelrc         // babel配置文件  
+│  gulpfile.js      // gulp打包配置文件  
+│  package-lock.json  
+│  package.json  
+│  README.md  
+│  
+├─config  
+│      index.js     // 打包管理  
+│  
+├─lib               // 打包目录  
+│  
+└─src               // 入口目录  
 ## 配置文件选项
 ### config/index.js
 entryPath：打包入口  
